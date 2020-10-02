@@ -1,4 +1,5 @@
 body {
+  box-sizing:Border-Box;
   font-size: 16px;
   line-height: 1.5;
 }
